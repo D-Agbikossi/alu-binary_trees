@@ -4,10 +4,6 @@
 /**
  * binary_tree_delete - Deletes an entire binary tree
  * @tree: Pointer to the root node of the tree to delete
- *
- * If tree is NULL, the function does nothing
- * 
- * Author: Denaton Agbikossi
  */
 
 void binary_tree_delete(binary_tree_t *tree)
